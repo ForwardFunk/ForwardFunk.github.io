@@ -7,6 +7,6 @@ categories: articles
 {% highlight python %}
 if  __name__ == '__main__':
   while True:
-    print('Are we there yet?!')
+    print('Are we there yet?')
 {% endhighlight %}
 
